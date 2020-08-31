@@ -1,0 +1,6 @@
+hostapd
+dnsmasq
+avrdude
+avahi-daemon
+whois
+rfkill

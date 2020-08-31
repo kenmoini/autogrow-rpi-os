@@ -1,0 +1,16 @@
+IMG_NAME='Autogrow'
+
+ENABLE_SSH=1
+
+TARGET_HOSTNAME="ag-hub"
+
+LOCALE_DEFAULT="en_US.UTF-8"
+TARGET_HOSTNAME="ag-hub"
+KEYBOARD_KEYMAP="us"
+KEYBOARD_LAYOUT="English (US)"
+TIMEZONE_DEFAULT="America/New_York"
+FIRST_USER_NAME="agadmin"
+FIRST_USER_PASS="autogrow"
+WPA_COUNTRY="US"
+
+STAGE_LIST="stage0 stage1 stage2 stage6"
